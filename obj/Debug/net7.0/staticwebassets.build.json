@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nRTc2agzHZSIfarhmKF4locSLydPNvcIW/OMf3Pi/OI=",
+  "Hash": "2+CHhL0JxmmsMTvHgp6PpxOM2iMotR8HU6XxbHz4V+Q=",
   "Source": "Chat",
   "BasePath": "_content/Chat",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/assets/index-b39a7352.js",
+      "Identity": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/assets/index-04468537.js",
       "SourceId": "Chat",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/",
       "BasePath": "_content/Chat",
-      "RelativePath": "assets/index-b39a7352.js",
+      "RelativePath": "assets/index-04468537.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-b39a7352.js"
+      "OriginalItemSpec": "wwwroot/assets/index-04468537.js"
     },
     {
-      "Identity": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/assets/index-bf985305.css",
+      "Identity": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/assets/index-50a05253.css",
       "SourceId": "Chat",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/",
       "BasePath": "_content/Chat",
-      "RelativePath": "assets/index-bf985305.css",
+      "RelativePath": "assets/index-50a05253.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/index-bf985305.css"
+      "OriginalItemSpec": "wwwroot/assets/index-50a05253.css"
     },
     {
       "Identity": "/Users/sujikang/Desktop/term4/C-sharp2/week6/Chat/wwwroot/index.html",
